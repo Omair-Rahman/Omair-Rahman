@@ -1,12 +1,16 @@
 <div align="center"><b><h2>Hi there 👋 I am Omair Bin Abdur Rahman 😄</h2></b></div>
 
-<div align="center"><i><b>🌱 Web Developer 🌱</b></i></div>
+<div align="center">
+  <i><b>🌱 Web Developer 🌱</b></i>
+  <p>I am available for hire</p>
+</div>
 
 #
 **Programming Languages:**
 <ul>
   <li>C</li>
   <li>C++</li>
+  <li>PHP</li>
   <li>Python</li>
   <li>Arduino</li>
   <li>Verilog</li>
@@ -24,6 +28,7 @@
 **Frameworks:**
 <ul>
   <li>Django</li>
+  <li>Laraval</li>
 </ul>
 
 <!--
