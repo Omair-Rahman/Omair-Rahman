@@ -27,8 +27,8 @@
 
 **Frameworks:**
 <ul>
-  <li>Django</li>
-  <li>Laraval</li>
+  <li>Django [Beginner]</li>
+  <li>Laraval [Beginner]</li>
 </ul>
 
 <!--
